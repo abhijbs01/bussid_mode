@@ -64,9 +64,7 @@ function App() {
 
       <h2>4. Your Choices</h2>
       <h3>4.1 Account Information</h3>
-      <p>
-        You may update, correct, or delete information about you at any time by
-        logging into your account and modifying your profile. If you wish to
+      <p> If you wish to
         delete your account, but note that we may retain certain information as
         required by law or for legitimate business purposes.
       </p>
@@ -92,7 +90,7 @@ function App() {
         13. If we learn that we have collected personal information from a child
         under 13, we will delete that information as quickly as possible. If you
         believe that we might have any information from or about a child under
-        13, please contact us at [Your Contact Email].
+        13.
       </p>
 
       <h2>7. Changes to This Privacy Policy</h2>
